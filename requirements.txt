@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+matplotlib
+seaborn
+pywaffle
+wordcloud
+vaderSentiment
+transformers
+torch
+spacy
+networkx
