@@ -97,8 +97,8 @@ Python · pandas · VADER · Hugging Face Transformers (RoBERTa) · spaCy · Net
 
 ## Authors
 
-- **Carlo Pegoraro** — [GitHub](https://github.com/) · [LinkedIn](https://www.linkedin.com/)
-- **Davide Fabio Loreti** — [GitHub](https://github.com/DavideFabioLoreti)
+- **Carlo Pegoraro** — [GitHub](https://github.com/NOMEUTENTE)
+- **Davide Fabio Loreti**
 
 ### Contributions
 
